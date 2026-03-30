@@ -4,12 +4,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=0EA5E9&center=true&vCenter=true&width=600&lines=Construindo+sistemas+com+clareza%2C+qualidade+e+consist%C3%AAncia.;Foco+em+projetos+reais+e+evolu%C3%A7%C3%A3o+cont%C3%ADnua." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=0EA5E9&center=true&vCenter=true&width=900&lines=Construindo+sistemas+com+clareza%2C+qualidade+e+consist%C3%AAncia.;Foco+em+projetos+reais+e+evolu%C3%A7%C3%A3o+cont%C3%ADnua." alt="Typing SVG" />
   </a>
 </p>
 
 <h1 align="center">Lucas Brandão — Desenvolvedor Júnior</h1>
-<p align="center"><strong>Full Stack em formação • JavaScript • PHP • MySQL</strong></p>
+<p align="center"><strong>Full Stack • JavaScript • PHP • MySQL</strong></p>
 
 <p align="center">
   <strong>💡 Slogan:</strong> <em>"Código limpo, aprendizado constante e entrega com responsabilidade."</em>
@@ -28,6 +28,12 @@ Sou técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Engenh
 ## 🎯 Objetivo profissional
 
 Quero crescer como desenvolvedor, atuar em projetos reais, aprender com pessoas mais experientes e entregar valor de forma contínua. Busco um ambiente onde eu possa evoluir tecnicamente, consolidar boas práticas e assumir responsabilidades maiores ao longo do tempo.
+
+---
+
+## 🔎 Foco atual
+
+Meu foco é crescer muito na área e, com disciplina e consistência, buscar excelência no que entrego. Estou direcionando meu tempo para fortalecer fundamentos, construir projetos reais e evoluir em qualidade de código.
 
 ---
 
